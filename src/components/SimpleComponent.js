@@ -2,9 +2,10 @@
 import React, { Component } from "react";
 
 class SimpleComponent extends Component {
-     this.state(
+     this.state{
        mood: 'happy'
-     )
+     }
+     
   render () {
     return (
       <div>
